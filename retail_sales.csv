@@ -1,0 +1,9 @@
+Year,Category,Sales,Quantity,Discount,Profit
+2023,Electronics,250000,5,0.1,4000
+2023,Clothing,12000,10,0.2,2000
+2023,Health,18000,4,0.1,1500
+2024,Electronics,30000,8,0.15,3000
+2024,Furniture,22000,2,0.05,-1000
+2024,Groceries,15000,20,0.25,-500
+2025,Clothing,22000,12,0.2,3500
+2025,Home Goods,9000,25,0.3,-1200
